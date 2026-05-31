@@ -70,3 +70,20 @@ This project demonstrates the implementation of a hybrid Identity and Access Man
 
 Dhaaraneesh D N
 Aspiring Identity & Access Management (IAM) Analyst
+
+## Screenshots
+
+### Active Directory Domain Structure
+![Domain Structure](ad-domain-structure.png)
+
+### Organizational Units (OUs)
+![Users OU](organizational-units.png)
+
+### Security Groups
+![Security Groups](security-groups.png)
+
+### Microsoft Entra Connect
+![Entra Connect](entra-connect.png)
+
+### Azure Portal
+![Azure Portal](azure-portal.png)
