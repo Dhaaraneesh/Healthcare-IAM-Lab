@@ -64,9 +64,7 @@ This project demonstrates the implementation of a hybrid Identity and Access Man
 - Hybrid Identity
 - Windows Server Administration
 
-## Screenshots
 
-(Add lab screenshots here)
 
 ## Author
 
